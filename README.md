@@ -6,9 +6,6 @@
 - TRINH KIET
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2026年卒業予定
 
-## 資格
-- 
-
 ## スキル
 - C#
   - 利用歴半年
@@ -18,6 +15,9 @@
   
 - C/C++
   - 利用歴半年
+
+- Python
+  - (予定)
  
 
 
@@ -54,7 +54,15 @@
 
 設定や組み立て、編集全般。
 
+## ゲーム企画
 
+- [ディフェンス・サバイバル](https://docs.google.com/document/d/1mk9Q53tuGsTcSPMYhIjri62daMnjRx_-NPrZvBtg-JA/edit?tab=t.0#heading=h.12trb5ab05a0)
+  - タワーディフェンス型ゲーム
+  
+- [アルファキハ・ジハード](https://docs.google.com/document/d/1VfwVdwGhOv573GXRWZVq5DsWaT1lKF5MBNJ5bvQWbTo/edit?tab=t.0#heading=h.r3981z5d870u)
+  -  見下ろし型マルチ対戦ゲーム
+
+- [City simulator](file:///C:/Users/gp0/Desktop/City%20simulator.pdf)
 
 
 
