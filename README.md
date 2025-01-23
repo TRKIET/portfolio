@@ -62,7 +62,7 @@
 - [アルファキハ・ジハード](https://docs.google.com/document/d/1VfwVdwGhOv573GXRWZVq5DsWaT1lKF5MBNJ5bvQWbTo/edit?tab=t.0#heading=h.r3981z5d870u)
   -  見下ろし型マルチ対戦ゲーム
 
-- [City simulator](City simulator.pdf)
+- [City simulator](Citysimulator.pdf)
   - 観察シュミレーションゲーム
 
 
