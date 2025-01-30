@@ -54,18 +54,23 @@
 
 ## ゲーム企画
 
+<img src="image/CS.png">
+
+- [City simulator](Citysimulator.pdf)
+  - 観察シュミレーションゲーム
+
 - [ディフェンス・サバイバル](https://docs.google.com/document/d/1mk9Q53tuGsTcSPMYhIjri62daMnjRx_-NPrZvBtg-JA/edit?tab=t.0#heading=h.12trb5ab05a0)
   - タワーディフェンス型ゲーム
   
 - [アルファキハ・ジハード](https://docs.google.com/document/d/1VfwVdwGhOv573GXRWZVq5DsWaT1lKF5MBNJ5bvQWbTo/edit?tab=t.0#heading=h.r3981z5d870u)
   -  見下ろし型マルチ対戦ゲーム
 
-- [City simulator](Citysimulator.pdf)
-  - 観察シュミレーションゲーム
 
 ## その他作品
 
-- [魔法陣](https://drive.google.com/file/d/1dPFziaXXvOUvqlZ2KYih6u7uOLa5V_6O/view?usp=drive_link)
+<img src="image/MIM.jpg">
+
+- [魔法陣](https://drive.google.com/file/https://drive.google.com/file/d/1dPFziaXXvOUvqlZ2KYih6u7uOLa5V_6O/view?usp=drive_linkd/1dPFziaXXvOUvqlZ2KYih6u7uOLa5V_6O/view?usp=drive_link)
 
 
 
