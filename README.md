@@ -1,6 +1,5 @@
 
 ---
-# KIET
 
 - TRINH KIET
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2026年卒業予定
@@ -63,6 +62,10 @@
 
 - [City simulator](Citysimulator.pdf)
   - 観察シュミレーションゲーム
+
+## その他作品
+
+- [魔法陣](https://drive.google.com/file/d/1dPFziaXXvOUvqlZ2KYih6u7uOLa5V_6O/view?usp=drive_link)
 
 
 
