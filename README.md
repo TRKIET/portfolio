@@ -70,7 +70,7 @@
 
 <img src="image/MIM.jpg">
 
-- [魔法陣](https://drive.google.com/file/https://drive.google.com/file/d/1dPFziaXXvOUvqlZ2KYih6u7uOLa5V_6O/view?usp=drive_linkd/1dPFziaXXvOUvqlZ2KYih6u7uOLa5V_6O/view?usp=drive_link)
+- [魔法陣](https://drive.google.com/file/d/1dPFziaXXvOUvqlZ2KYih6u7uOLa5V_6O/view?usp=sharing)
 
 
 
